@@ -1,5 +1,5 @@
 # DevOps-2024-fall
 
-Test Git Hub
+Updated by Jules
 
-This is a simple test sentence.
+This is the update on dev-jules branch
